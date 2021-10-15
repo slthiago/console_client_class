@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{7B8E783E-4B85-4C2D-B317-BDC719A34592}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="console_cliente_class/Program.cs">
     <Files>
       <File FileName="console_cliente_class/Program.cs" Line="13" Column="1" />
-      <File FileName=".gitignore" Line="388" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="console_cliente_class" expanded="True" selected="True">
-            <Node name="console_cliente_class" expanded="True" />
+          <Node name="console_cliente_class" expanded="True">
+            <Node name="console_cliente_class" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

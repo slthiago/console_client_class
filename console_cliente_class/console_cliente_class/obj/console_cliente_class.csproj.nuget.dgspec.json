@@ -14,7 +14,7 @@
         "outputPath": "/Users/thiagosantos/Documents/Treinamento C&A/dotnet_projects/console_client_class/console_cliente_class/console_cliente_class/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/thiagosantos/.config/NuGet/NuGet.Config"
+          "/Users/thiagosantos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
